@@ -7,3 +7,7 @@ ul.dropdown-menu.show {
 .dropdown-menu a {
   color: white;
 }
+.headings {
+  text-align: center;
+  /* font-size: large; */
+}
