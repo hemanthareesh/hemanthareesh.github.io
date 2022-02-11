@@ -1,0 +1,9 @@
+ul.dropdown-menu.show {
+  background: #212529;
+}
+.items:hover {
+  color: #212529 !important;
+}
+.dropdown-menu a {
+  color: white;
+}
